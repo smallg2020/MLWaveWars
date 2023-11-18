@@ -1,0 +1,33 @@
+{
+    "lesson_id": {
+        "lesson_num": 0
+    },
+    "AgentBehaviour": {
+        "elo": 1199.507133759473,
+        "checkpoints": [
+            {
+                "steps": 78063,
+                "file_path": "results\\ww01\\AgentBehaviour\\AgentBehaviour-78063.onnx",
+                "reward": 0.14285714285714285,
+                "creation_time": 1700338273.733043,
+                "auxillary_file_paths": [
+                    "results\\ww01\\AgentBehaviour\\AgentBehaviour-78063.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 78063,
+            "file_path": "results\\ww01\\AgentBehaviour.onnx",
+            "reward": 0.14285714285714285,
+            "creation_time": 1700338273.733043,
+            "auxillary_file_paths": [
+                "results\\ww01\\AgentBehaviour\\AgentBehaviour-78063.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}
